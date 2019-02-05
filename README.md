@@ -1,10 +1,10 @@
 # flutter_app
 
-A new Flutter application.
+A new Flutter application testing out Scoped_Model and Location Services.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application that requires GPS Location for Android and iOS.
 
 A few resources to get you started if this is your first Flutter project:
 
